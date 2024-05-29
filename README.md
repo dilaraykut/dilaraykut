@@ -4,7 +4,7 @@ I'm a 2024 graduate from Ankara Yıldırım Beyazıt University with a degree in
 
 I have experience in mobile application and web development. Additionally, I am continuing my Full Stack Java education at Bilge Adam Akademi.
 
-**Skills*
+**Skills**
 
 -React
 -TypeScript
