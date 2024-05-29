@@ -6,12 +6,12 @@ I have experience in mobile application and web development. Additionally, I am 
 
 **Skills**
 
--React
--TypeScript
--JavaScript
--Java
--Python
--MySQL
--PostgreSQL
--HTML
--CSS
+- React
+- TypeScript
+- JavaScript
+- Java
+- Python
+- MySQL
+- PostgreSQL
+- HTML
+- CSS
